@@ -1,0 +1,21 @@
+.border {
+	border: 5px solid black;
+ 	margin-top: 100px;
+ 	margin-bottom: 100px;
+ 	margin-left: 250px;
+ 	margin-right: 200px;
+}
+.border h1 {
+	text-align: center;
+	margin-top: 50px;
+ 	margin-bottom: 50px;
+ 	margin-left: 50px;
+ 	margin-right: 50px;
+}
+
+.subborder {
+	margin-top: 50px;
+ 	margin-bottom: 50px;
+ 	margin-left: 50px;
+ 	margin-right: 50px;
+}
